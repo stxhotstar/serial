@@ -351,3 +351,4 @@ echo "some" > /dev/ttyS0
 cat /dev/ttyS0
 ```
 ## 源码
+https://github.com/stxhotstar/serial.git
